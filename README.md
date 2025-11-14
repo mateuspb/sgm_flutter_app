@@ -1,3 +1,3 @@
 # SGM Flutter App
 
-TCC da pós PUC.
+Sistema Gestão de Movimentações Flutter App
