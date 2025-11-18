@@ -4,7 +4,7 @@ import 'package:flutter/widgets.dart';
 import 'auth_service.dart';
 
 class ApiClient {
-  static const String baseUrl = 'http://98.94.247.216:80';
+  static const String baseUrl = 'http://10.0.2.2:8000';
 
   Dio get dioNoAuth {
     final dio = Dio(BaseOptions(
